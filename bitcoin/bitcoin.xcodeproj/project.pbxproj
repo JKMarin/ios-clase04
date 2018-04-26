@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5C3805C52091B2C400116401 /* ComprobanteController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3805C42091B2C400116401 /* ComprobanteController.swift */; };
 		5C52AFD9208C5A39006696FE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C52AFD8208C5A39006696FE /* AppDelegate.swift */; };
 		5C52AFDB208C5A39006696FE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C52AFDA208C5A39006696FE /* ViewController.swift */; };
 		5C52AFDE208C5A39006696FE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C52AFDC208C5A39006696FE /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5C3805C42091B2C400116401 /* ComprobanteController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComprobanteController.swift; sourceTree = "<group>"; };
 		5C52AFD5208C5A39006696FE /* bitcoin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = bitcoin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C52AFD8208C5A39006696FE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5C52AFDA208C5A39006696FE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				5C52AFD8208C5A39006696FE /* AppDelegate.swift */,
 				5C52AFDA208C5A39006696FE /* ViewController.swift */,
+				5C3805C42091B2C400116401 /* ComprobanteController.swift */,
 				5C52AFDC208C5A39006696FE /* Main.storyboard */,
 				5C52AFDF208C5A3A006696FE /* Assets.xcassets */,
 				5C52AFE1208C5A3A006696FE /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				5C52AFDB208C5A39006696FE /* ViewController.swift in Sources */,
 				5C52AFD9208C5A39006696FE /* AppDelegate.swift in Sources */,
+				5C3805C52091B2C400116401 /* ComprobanteController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
